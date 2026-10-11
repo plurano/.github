@@ -1,5 +1,7 @@
 # Plurano
 
+**Many components, one craft.**
+
 Shared libraries and frameworks: written once, used
 by every project in the family.
 
