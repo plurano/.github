@@ -1,0 +1,19 @@
+# SPDX-FileCopyrightText: 2026 Lusoris <lusoris@pm.me>
+# SPDX-License-Identifier: EUPL-1.2
+name: Feature request
+description: Describe a useful behavior and the problem it solves.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or use case
+      description: Explain the situation and who benefits from changing it.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Desired behavior
+      description: Describe a concrete example and any important constraints.
+    validations:
+      required: true
